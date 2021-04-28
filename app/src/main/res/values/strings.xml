@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BTEB Result </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developer_information">Developer Information</string>
+    <string name="company_information">Company Information</string>
+    <string name="forbit_limited">Forbit Limited</string>
+    <string name="mirpur_1_dhaka_1216_bangladesh">Mirpur-1, Dhaka-1216, Bangladesh</string>
+    <string name="forbit_bd_gmail_com">forbit.bd@gmail.com</string>
+    <string name="md_saimul_hoque">MD Saimul Hoque</string>
+    <string name="abid_ahmed_sobhan">Abid Ahmed Sobhan</string>
+    <string name="saimulhoque8214_gmail_com">saimulhoque8214@gmail.com</string>
+    <string name="abidasobhan19_gmail_com">abidasobhan19@gmail.com</string>
+    <string name="select_semester">Select Semester</string>
+    <string name="select_exam_year">Select Exam Year</string>
+    <string name="get_result">Get Result</string>
+    <string name="developer_team">Developer Team</string>
+    <string name="enter_your_board_roll">Enter your Board Roll</string>
+    <string name="when_bteb_bangladesh_technical_education_board_will_publish_the_result_you_can_easily_get_your_result_from_here">When BTEB (Bangladesh Technical Education Board) Will Publish The Result, You Can Easily Get Your Result From Here.</string>
+    <string name="bteb_result">BTEB RESULT</string>
+
+
+    <string-array name="exm_year">
+        <item>Select Your Exam Year</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+    </string-array>
+
+    <string-array name="exm_semester">
+        <item>Select Your Semester</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+
+</resources>
